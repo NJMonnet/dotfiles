@@ -1,4 +1,6 @@
-My .dotfiles for DWM, you can see the result here :
+My .dotfiles for DWM.
+
+Result here :
 
 ![alt text](https://github.com/NMJLorsal/dotfiles/blob/main/Bureau01.png?raw=true)
 
